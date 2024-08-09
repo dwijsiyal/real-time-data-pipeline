@@ -1,0 +1,9 @@
+{
+	"name": "Data-Factory-stream",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35bfb3bb-93d0-4763-a5ca-ec9f1d484392",
+		"tenantId": "3233ffa1-ea05-4445-8958-6b6744723147"
+	}
+}
