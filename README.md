@@ -1,4 +1,4 @@
-# real-time-data-pipeline for Public Bus Transit Data (Azure Cloud)
+# Real-Time Data Pipeline for Public Bus Transit Data (Azure Cloud)
 ### Table of Contents
 1. Problem Statement
 2. Approach
@@ -36,7 +36,7 @@ Public transportation systems generate a vast amount of data, which often remain
 ![image](https://github.com/user-attachments/assets/3ff8952f-05c2-4a6c-a186-2e5d3fc78fd6)
 
 - **Event Hubs: Overview Page and Connection String**
-![image](https://github.com/user-attachments/assets/343b7072-0398-4e68-90f3-685d2ee9b9a8)
+![image](https://github.com/user-attachments/assets/301b972a-6f96-44dd-9adb-617977a435a6)
 ![image](https://github.com/user-attachments/assets/797561ee-8288-4a8e-8736-e3d148b2ba27)
 ![image](https://github.com/user-attachments/assets/f40f3002-dc5d-4da7-b68f-ecadb8ed5d72)
 
