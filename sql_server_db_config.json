@@ -1,0 +1,52 @@
+
+{
+    "sku": {
+        "name": "GP_S_Gen5",
+        "tier": "GeneralPurpose",
+        "family": "Gen5",
+        "capacity": 1
+    },
+    "kind": "v12.0,user,vcore,serverless",
+    "properties": {
+        "collation": "SQL_Latin1_General_CP1_CI_AS",
+        "maxSizeBytes": 16106127360,
+        "status": "Paused",
+        "databaseId": "97b2d3a8-037a-4aed-943d-255c5030c533",
+        "creationDate": "2024-07-27T21:18:13.663Z",
+        "currentServiceObjectiveName": "GP_S_Gen5_1",
+        "requestedServiceObjectiveName": "GP_S_Gen5_1",
+        "defaultSecondaryLocation": "canadaeast",
+        "catalogCollation": "SQL_Latin1_General_CP1_CI_AS",
+        "zoneRedundant": false,
+        "maxLogSizeBytes": 193273528320,
+        "earliestRestoreDate": "2024-08-07T19:57:39.7386241Z",
+        "readScale": "Disabled",
+        "currentSku": {
+            "name": "GP_S_Gen5",
+            "tier": "GeneralPurpose",
+            "family": "Gen5",
+            "capacity": 1
+        },
+        "autoPauseDelay": 60,
+        "currentBackupStorageRedundancy": "Local",
+        "requestedBackupStorageRedundancy": "Local",
+        "minCapacity": 0.5,
+        "pausedDate": "2024-08-14T18:12:17.047Z",
+        "maintenanceConfigurationId": "/subscriptions/6eb1fa13-5a7a-42bf-85f9-03e8a657db80/providers/Microsoft.Maintenance/publicMaintenanceConfigurations/SQL_Default",
+        "isLedgerOn": false,
+        "isInfraEncryptionEnabled": false,
+        "availabilityZone": "NoPreference"
+    },
+    "location": "canadacentral",
+    "tags": {
+        "CostCenter": "uofr",
+        "DataClass": "CS714",
+        "Organization": "student",
+        "ProjectContact": "dwijsiyal@gmail.com",
+        "ProjectName": "Stream-Analytics",
+        "TechnicalContact": "Dwij Siyal"
+    },
+    "id": "/subscriptions/6eb1fa13-5a7a-42bf-85f9-03e8a657db80/resourceGroups/stream-analytics-project/providers/Microsoft.Sql/servers/transport-db-server/databases/TransportDB",
+    "name": "TransportDB",
+    "type": "Microsoft.Sql/servers/databases"
+}

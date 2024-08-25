@@ -1,0 +1,32 @@
+{
+    "kind": "v12.0",
+    "properties": {
+        "administratorLogin": "azureadmin",
+        "version": "12.0",
+        "state": "Ready",
+        "fullyQualifiedDomainName": "transport-db-server.database.windows.net",
+        "privateEndpointConnections": [],
+        "minimalTlsVersion": "1.2",
+        "publicNetworkAccess": "Enabled",
+        "administrators": {
+            "administratorType": "ActiveDirectory",
+            "principalType": "Group",
+            "login": "dsn568@uregina.ca",
+            "sid": "b3ce852f-9633-47d4-8387-ef6b9644c201",
+            "tenantId": "3233ffa1-ea05-4445-8958-6b6744723147"
+        },
+        "restrictOutboundNetworkAccess": "Disabled"
+    },
+    "location": "canadacentral",
+    "tags": {
+        "CostCenter": "uofr",
+        "DataClass": "CS714",
+        "Organization": "student",
+        "ProjectContact": "dwijsiyal@gmail.com",
+        "ProjectName": "Stream-Analytics",
+        "TechnicalContact": "Dwij Siyal"
+    },
+    "id": "/subscriptions/6eb1fa13-5a7a-42bf-85f9-03e8a657db80/resourceGroups/stream-analytics-project/providers/Microsoft.Sql/servers/transport-db-server",
+    "name": "transport-db-server",
+    "type": "Microsoft.Sql/servers"
+}

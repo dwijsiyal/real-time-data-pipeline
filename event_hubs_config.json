@@ -1,0 +1,32 @@
+{
+    "id": "/subscriptions/6eb1fa13-5a7a-42bf-85f9-03e8a657db80/resourceGroups/stream-analytics-project/providers/Microsoft.EventHub/namespaces/transport-stream-event-hub",
+    "name": "transport-stream-event-hub",
+    "type": "Microsoft.EventHub/Namespaces",
+    "location": "canadacentral",
+    "tags": {
+        "CostCenter": "uofr",
+        "DataClass": "CS714",
+        "Organization": "student",
+        "ProjectContact": "dwijsiyal@gmail.com",
+        "ProjectName": "Stream-Analytics",
+        "TechnicalContact": "Dwij Siyal"
+    },
+    "properties": {
+        "disableLocalAuth": false,
+        "zoneRedundant": true,
+        "metricId": "6eb1fa13-5a7a-42bf-85f9-03e8a657db80:transport-stream-event-hub",
+        "serviceBusEndpoint": "https://transport-stream-event-hub.servicebus.windows.net:443/",
+        "isAutoInflateEnabled": false,
+        "maximumThroughputUnits": 0,
+        "kafkaEnabled": true,
+        "provisioningState": "Succeeded",
+        "status": "Active",
+        "createdAt": "2024-08-06T08:54:48.9667453Z",
+        "updatedAt": "2024-08-06T08:54:48Z"
+    },
+    "sku": {
+        "name": "Basic",
+        "tier": "Basic",
+        "capacity": 1
+    }
+}
