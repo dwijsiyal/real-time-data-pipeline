@@ -1,0 +1,42 @@
+{
+    "id": "/subscriptions/6eb1fa13-5a7a-42bf-85f9-03e8a657db80/resourceGroups/stream-analytics-project/providers/Microsoft.StreamAnalytics/streamingjobs/transport-stream-analytics",
+    "name": "transport-stream-analytics",
+    "type": "Microsoft.StreamAnalytics/streamingjobs",
+    "location": "Canada Central",
+    "tags": {
+        "hidden-link:/Microsoft.StreamAnalytics/streamingjobs/settings": "{\"createdFrom\":\"Portal\"}",
+        "CostCenter": "uofr",
+        "DataClass": "CS714",
+        "Organization": "student",
+        "ProjectContact": "dwijsiyal@gmail.com",
+        "ProjectName": "Stream-Analytics",
+        "TechnicalContact": "Dwij Siyal"
+    },
+    "properties": {
+        "sku": {
+            "name": "StandardV2"
+        },
+        "jobId": "5c2c4bd8-0c14-423b-a0bd-50a97a117dcd",
+        "provisioningState": "Succeeded",
+        "jobState": "Stopped",
+        "outputStartMode": "JobStartTime",
+        "outputStartTime": "2024-08-05T19:01:21.467Z",
+        "lastOutputEventTime": "2024-08-05T21:11:04.812Z",
+        "eventsOutOfOrderPolicy": "Adjust",
+        "outputErrorPolicy": "Stop",
+        "eventsOutOfOrderMaxDelayInSeconds": 0,
+        "eventsLateArrivalMaxDelayInSeconds": 5,
+        "dataLocale": "en-US",
+        "createdDate": "2024-07-29T20:36:18.363Z",
+        "compatibilityLevel": "1.2",
+        "jobStorageAccount": null,
+        "contentStoragePolicy": "SystemAccount",
+        "jobType": "Cloud",
+        "cluster": null
+    },
+    "identity": {
+        "type": "SystemAssigned",
+        "principalId": "c3f678ef-1400-4e74-87e3-0f13b099ce27",
+        "tenantId": "3233ffa1-ea05-4445-8958-6b6744723147"
+    }
+}
